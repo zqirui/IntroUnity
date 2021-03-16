@@ -4,6 +4,15 @@
     <content url="file://C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Editor" />
     <content url="file://C:/Program Files/Unity/Hub/Editor/2019.4.21f1/Editor/Data/Resources/PackageManager/BuiltInPackages/com.unity.ugui/Runtime" />
     <content url="file://$MODULE_DIR$/../.." />
+    <content url="file://$MODULE_DIR$/../../../../../Unity_Projects/Corona Chaos/Library/PackageCache/com.unity.collab-proxy@1.2.16/Editor" />
+    <content url="file://$MODULE_DIR$/../../../../../Unity_Projects/Corona Chaos/Library/PackageCache/com.unity.ide.rider@1.1.4/Rider/Editor" />
+    <content url="file://$MODULE_DIR$/../../../../../Unity_Projects/Corona Chaos/Library/PackageCache/com.unity.ide.vscode@1.2.3/Editor" />
+    <content url="file://$MODULE_DIR$/../../../../../Unity_Projects/Corona Chaos/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEditor.TestRunner" />
+    <content url="file://$MODULE_DIR$/../../../../../Unity_Projects/Corona Chaos/Library/PackageCache/com.unity.test-framework@1.1.22/UnityEngine.TestRunner" />
+    <content url="file://$MODULE_DIR$/../../../../../Unity_Projects/Corona Chaos/Library/PackageCache/com.unity.textmeshpro@2.1.1/Scripts/Editor" />
+    <content url="file://$MODULE_DIR$/../../../../../Unity_Projects/Corona Chaos/Library/PackageCache/com.unity.textmeshpro@2.1.1/Scripts/Runtime" />
+    <content url="file://$MODULE_DIR$/../../../../../Unity_Projects/Corona Chaos/Library/PackageCache/com.unity.timeline@1.2.18/Editor" />
+    <content url="file://$MODULE_DIR$/../../../../../Unity_Projects/Corona Chaos/Library/PackageCache/com.unity.timeline@1.2.18/Runtime" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
